@@ -216,8 +216,13 @@ This project demonstrates:
 * Streamlit Web Development
 * Local LLM Deployment using Ollama
 * End-to-End AI Product Development
-
 ---
+
+## Author
+
+**Sayan Mukherjee**
+
+Hospital Management System – Academic Project
 
 ## License
 

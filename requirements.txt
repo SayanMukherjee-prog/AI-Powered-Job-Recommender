@@ -1,0 +1,10 @@
+streamlit   # This is a package that will creat a streamlit user interface in 
+            # which the user will get a resume uploader option and the response or output from the applictaion .  
+
+openai      # Through this package we will use openai large language model(LLM).
+
+pymupdf     # This package will process the resume which will be in pdf files .
+
+python-dotenv  #Inside this we will mention openai_api_key and apify_api_key .
+
+apify-client #

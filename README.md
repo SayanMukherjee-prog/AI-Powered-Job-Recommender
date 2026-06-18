@@ -121,7 +121,40 @@ Streamlit Dashboard
 ```
 
 ---
+## Screenshots
 
+### 🔐 User Login
+
+![Login Page](screenshots/Login%20Page.png)
+
+### ⏳ Resume Processing
+
+![Loading Stage](screenshots/Loading%20Stage.png)
+
+### 📝 AI Generated Resume Summary
+
+![Resume Summary](screenshots/Resume%20Summary.png)
+
+### 🔑 Extracted Resume Keywords
+
+![Extracted Keywords](screenshots/Extracted%20Keywords.png)
+
+### 📊 Skill Gap Analysis
+
+![Skill Gaps and Missing Areas](screenshots/Skill%20Gaps%20and%20Missing%20Area.png)
+
+### 🚀 Personalized Career Roadmap
+
+![Future Road Map](screenshots/Futrue%20Road%20Map.png)
+
+### 💼 LinkedIn Job Recommendations
+
+![LinkedIn Job Recommendations](screenshots/LinkedIn%20Job%20Recommendation.png)
+
+### 🌐 Naukri Job Recommendations
+
+![Naukri Job Recommendations](screenshots/Naukri%20Job%20Recommendation.png)
+----
 ## Installation
 
 ### Clone Repository
@@ -183,16 +216,6 @@ This project demonstrates:
 * Streamlit Web Development
 * Local LLM Deployment using Ollama
 * End-to-End AI Product Development
-
----
-
-## Team Members
-
-* Sayan Mukherjee
-* Pritam Choudhury
-* Rishi Shaw
-* Subhra Basu
-* Souvik Patra
 
 ---
 
